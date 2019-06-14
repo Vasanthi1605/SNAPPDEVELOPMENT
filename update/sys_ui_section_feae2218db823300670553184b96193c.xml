@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_section caption="User info" section_id="feae2218db823300670553184b96193c" sys_domain="global" table="x_366668_sicet_it_incident_log" version="3" view="ess">
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>activity_due</element>
+            <position>0</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-06-11 08:14:31</sys_created_on>
+            <sys_id>8bae6218db823300670553184b9619df</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="User info" display_value="User info" name="x_366668_sicet_it_incident_log" sys_domain="global" view="783811707420330078509adcc48c87a3">feae2218db823300670553184b96193c</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-06-11 08:14:31</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.split</element>
+            <position>1</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-06-11 08:14:31</sys_created_on>
+            <sys_id>0fae6218db823300670553184b9619df</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="User info" display_value="User info" name="x_366668_sicet_it_incident_log" sys_domain="global" view="783811707420330078509adcc48c87a3">feae2218db823300670553184b96193c</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-06-11 08:14:31</sys_updated_on>
+            <sys_user/>
+            <type>.split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>work_start</element>
+            <position>2</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-06-11 08:14:31</sys_created_on>
+            <sys_id>8fae6218db823300670553184b9619df</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="User info" display_value="User info" name="x_366668_sicet_it_incident_log" sys_domain="global" view="783811707420330078509adcc48c87a3">feae2218db823300670553184b96193c</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-06-11 08:14:31</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_section action="INSERT_OR_UPDATE">
+            <caption>User info</caption>
+            <header>false</header>
+            <name>x_366668_sicet_it_incident_log</name>
+            <roles/>
+            <sys_class_name>sys_ui_section</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-06-11 08:14:30</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>feae2218db823300670553184b96193c</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>User info</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="sicet it" source="x_366668_sicet_it">200c7d14db023300670553184b96198d</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="sicet it">200c7d14db023300670553184b96198d</sys_scope>
+            <sys_update_name>sys_ui_section_feae2218db823300670553184b96193c</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-06-11 08:14:30</sys_updated_on>
+            <sys_user/>
+            <title>false</title>
+            <view display_value="Self Service" name="ess">783811707420330078509adcc48c87a3</view>
+            <view_name/>
+        </sys_ui_section>
+    </sys_ui_section>
+</record_update>

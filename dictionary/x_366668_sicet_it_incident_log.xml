@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element extends="task" label="Incident log" max_length="40" name="x_366668_sicet_it_incident_log" sizeclass="1" type="collection">
+        <element label="history" max_length="64" name="history" type="journal"/>
+        <element choice="1" label="network" max_length="64" name="network" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="-- New choice --" value="-- New choice --"/>
+                <element inactive_on_update="false" label="email" value="email"/>
+                <element inactive_on_update="false" label="no" value="no"/>
+            </choice>
+        </element>
+        <element label="reference" max_length="32" name="reference" reference="sys_user" reference_qual="active=true^EQ" reference_qual_condition="active=true^EQ" type="reference"/>
+        <element label="request date" max_length="100" name="request_date" type="glide_date_time"/>
+        <element display="true" label="return date" max_length="100" name="return_date" type="glide_date_time"/>
+        <element default="default des" label="sicetdes" max_length="64" name="sicetdes" read_only="true" type="string"/>
+        <element default="test default" label="sicet short des" max_length="64" name="sicet_short_des" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="New Date" max_length="40" name="u_glide_date_2" type="glide_date"/>
+        <element label="history" max_length="64" name="x_366668_sicet_it_history" type="journal"/>
+    </element>
+</database>

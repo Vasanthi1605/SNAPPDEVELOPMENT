@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_cat_item_catalog">
+    <sc_cat_item_catalog action="INSERT_OR_UPDATE">
+        <sc_cat_item display_value="linux book">16fe9ccddb023300670553184b96194f</sc_cat_item>
+        <sc_catalog display_value="college service">1d0e54cddb023300670553184b961983</sc_catalog>
+        <sys_class_name>sc_cat_item_catalog</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-06-13 05:42:55</sys_created_on>
+        <sys_id>8a2f1001db423300670553184b9619ef</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>college service.linux book</sys_name>
+        <sys_package display_value="sicet it" source="x_366668_sicet_it">200c7d14db023300670553184b96198d</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="sicet it">200c7d14db023300670553184b96198d</sys_scope>
+        <sys_update_name>sc_cat_item_catalog_8a2f1001db423300670553184b9619ef</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-06-13 05:42:55</sys_updated_on>
+    </sc_cat_item_catalog>
+</record_update>
